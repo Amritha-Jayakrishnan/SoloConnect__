@@ -98,7 +98,16 @@ User → Auth Form → Matching System → Translation API → City Guides → T
 ##Video on how the program works:
 https://drive.google.com/file/d/1Jh3sVeU-_GXAiIkTiqOX4PCTuW05PhEp/view?usp=drive_link
 
-##Explanation 
+##Explanation : 
+https://drive.google.com/file/d/1qa1SxBfFLZmc6GM9gyz5aYGl85SU58Qx/view?usp=drive_link
+
+#Screenshots:
+![Screenshot 2025-02-02 105217](https://github.com/user-attachments/assets/a7fbb891-aa7e-4cc4-b629-7e912586c58a)
+![Screenshot 2025-02-02 105249](https://github.com/user-attachments/assets/2371deb4-481a-4137-b73f-6d3f5b917ac3)
+![Screenshot 2025-02-02 105306](https://github.com/user-attachments/assets/b203fd45-fbbc-489b-ac17-23aade14ea29)
+![Screenshot 2025-02-02 105316](https://github.com/user-attachments/assets/a03b65e3-6b5c-4ab4-892e-67724c547ae5)
+![Screenshot 2025-02-02 105327](https://github.com/user-attachments/assets/10f9ae04-28f8-471a-b738-bb49dcf72e9d)
+
 
 
 
