@@ -95,5 +95,11 @@ User → Auth Form → Matching System → Translation API → City Guides → T
         |                     |                  |                |
       Login              Match Users         Translate       View & Post
 ```
+##Video on how the program works:
+https://drive.google.com/file/d/1Jh3sVeU-_GXAiIkTiqOX4PCTuW05PhEp/view?usp=drive_link
+
+##Explanation 
+
+
 
 
